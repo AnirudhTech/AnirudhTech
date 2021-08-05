@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AniLinux2012
+- 👋 Hi, I’m @AnirudhTech
 - 👀 I’m interested in Python, React And HTML, JS
 - 🌱 I’m currently learning Next.js
 - 💞️ I’m looking to collaborate on ...
